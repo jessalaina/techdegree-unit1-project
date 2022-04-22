@@ -15,6 +15,7 @@ let quotes = [
     {quote: 'Life is what happens when you\'re busy making other plans', source: 'John Lennon', citation: 'Song: Beautiful Boy', year: 1980 },
     {quote: 'Get busy living or get busy dying...there ain\'t nothing in between', source: 'Stephen King', citation: 'Different Seasons', year: 1982 },
     {quote: 'Life is like a box of chocolates. You never know what you\'re going to get', source: 'Forrest Gump', citation: 'Movie: Forrest Gump', year: 1994 }
+    {quote: 'In three words, I can sum up everything I\'ve learned about life: it goes on', source: 'Robert Frost', citation: 'This Week Magazine', year: 1954 }
   ]
 
 
